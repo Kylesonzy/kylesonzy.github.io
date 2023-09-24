@@ -18,16 +18,14 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Life Endeavors  # the main title
+title: Kyle Kim  # the main title
 
-tagline: An update site for my everyday events # it will display as the sub-title
+tagline: Inspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
+ I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. 
+  # it will display as the sub-title
 
 description: >- 
- Inspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
- I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. Also a great way to get my mind off of things when I am 
- going through a rough patch! Hope I can inspire a few individuals to treat others kindly with some of my stories.
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+ 
 url: "https://kylesonzy.github.io"
 
 github:

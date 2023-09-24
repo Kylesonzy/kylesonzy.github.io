@@ -13,23 +13,25 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: My Life Endeavors  # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: An update site for my everyday events # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- 
+ Inspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
+ I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. Also a great way to get my mind off of things when I am 
+ going through a rough patch! Hope I can inspire a few individuals to treat others kindly with some of my stories.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://kylesonzy.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: kylesonzy # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,8 +39,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Kyle Kim
+  email: kylekim256@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -66,17 +68,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.discordapp.com/avatars/300778696409874434/95a7c7911d3bcf0f3c30a742e365944e.png?size=4096
 
 # boolean type, the global switch for TOC in posts.
 toc: true

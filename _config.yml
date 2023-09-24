@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Kyle Kim  # the main title
 
-tagline: Inspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
+tagline: Aspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
  I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. 
   # it will display as the sub-title
 
@@ -32,7 +32,7 @@ github:
   username: kylesonzy # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: kylesonzy_alt # change to your twitter username
 
 social:
   # Change to your full name.

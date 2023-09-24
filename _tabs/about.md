@@ -1,8 +1,7 @@
 ---
-title: Challenges
-date: 2023-09-24 01:27:00 -500
-categories: [Relationships,Career]
-tags: [heartbreak,love,perserverence]
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 # First Love

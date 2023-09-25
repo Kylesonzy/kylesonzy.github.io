@@ -24,8 +24,8 @@ tagline: Aspiring Cyber Security Analyst seeking to potentially branch into a la
  I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. 
   # it will display as the sub-title
 
-description: >-
-  my name is kyle
+description: >- # yeah
+  my name is kyle 
  
 url: "https://kylesonzy.github.io"
 
@@ -38,8 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Aspiring Cyber Security Analyst seeking to potentially branch into a large firm or work at a startup company. On this website I will delve into my life about all the hardships that 
- I have faced and will face in the future. Consider this more of like a casual rant with some business formalities tied to it. 
+  name: Kyle Kim
   email: kylekim256@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

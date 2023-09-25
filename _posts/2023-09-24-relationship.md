@@ -1,6 +1,6 @@
 ---
 title: Traumatic Story of Love
-date: 2023-09-24 04:46:00 AM -500
+date: 2023-09-23 04:46:00 AM -500
 categories: [relationships,heartbreak]
 tags: [struggles,grief,depression,anxiety]
 ---

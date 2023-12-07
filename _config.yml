@@ -77,7 +77,7 @@ google_analytics:
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.discordapp.com/avatars/300778696409874434/95a7c7911d3bcf0f3c30a742e365944e.png?size=4096
+avatar: https://cdn.discordapp.com/attachments/431944012555878402/1182429170312167535/IMG_3748.jpg?ex=6584a9fa&is=657234fa&hm=a927af45801add99169182abe2a29325e3bba6da9e3611af6f356faa6f9fe88e&
 
 # boolean type, the global switch for TOC in posts.
 toc: true
